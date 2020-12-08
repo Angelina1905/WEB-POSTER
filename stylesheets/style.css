@@ -1,0 +1,10 @@
+@import "reset.css";
+
+@font-face {
+  font-family: 'RF Krabuler';
+  /* font-weight: 900; */
+
+  src: url(../font/RF Krabuler Regular.ttf)
+  format('truetype');
+}
+@import 'layout.css';
