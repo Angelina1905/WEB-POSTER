@@ -67,6 +67,9 @@ display: none;
   .img3:hover .text3{
     display: block;
   }
+  .img3:hover {
+	filter:  sepia(20%) saturate(1000%) hue-rotate(50deg);
+	}
   .img7 {
     position: absolute;
 width: 85.4%;
@@ -156,6 +159,9 @@ height: 29.12%;
 left: 22.97%;
 top: 563.2%;
   }
+  .img5:hover {
+	filter:  sepia(10%) saturate(1500%) hue-rotate(273deg);
+	}
   .text5 {
     position: absolute;
 width: 39.41%;
@@ -216,9 +222,9 @@ height: 38.65%;
 left: 34.8%;
 top: 10.04%;
   }
-  .img10:hover  {
-    filter:  sepia(30%) saturate(1000%) hue-rotate(29deg);
-    }
+  .img10:hover {
+	filter:  sepia(10%) saturate(2000%) hue-rotate(220deg);
+	}
 
 .text10 {
   position: absolute;
@@ -236,10 +242,6 @@ display: none;
 .img10:hover .text10 {
   display: block;
 }
-.img10:hover .icecream1 {
-  display: block;
-}
-
   .img11 {
     position: absolute;
 width: 48.75%;
@@ -330,6 +332,9 @@ height: 10.29%;
 left: 67.38%;
 top: 253.2%;
   }
+  .img14:hover {
+	filter:  sepia(20%) saturate(1000%) hue-rotate(300deg);
+	}
   .text14 {
     position: absolute;
 width: 19.96%;
