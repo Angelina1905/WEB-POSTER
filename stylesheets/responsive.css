@@ -18,3 +18,120 @@
 	 .woman-left {margin: 17vw 11vw;}
 	 .woman-right {margin: 17vw 11vw;}
 } */
+
+@media all and (max-width: 850px){
+	.window_form::before, .window_form2::before  {
+		background-size: calc(100% - 10vw);}
+}
+
+
+@media all and (max-width: 794px) {
+	.cloud_right::before {
+		background-size: auto 45%;
+		left: 5vw;}
+	.cloud_left::before {
+		background-size: auto 40%;
+		left: -3vw;}
+}
+
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  /* iPad */
+}
+
+  /* iPad Portrait */
+
+	/* iPad Portrait */
+
+  /* iPad Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  /* iPad Portrait */
+	body {top: -10vh;}
+	.star3, .star4, .cloud_3, .cloud_4, 	.container, .window_form, .container, .btn1, {
+	 display: none;}
+	.cloud_right::before, .cloud_left::before {
+	 background-size: auto 38%;}
+	.window_1, .window_2 {
+		display: block;}
+	.cloud_left::before {
+		top: 10vh;}
+	.backgr_stars::before {
+			background-size: auto 70%; }
+	.backgr_stars2::before, .backgr_stars3::before {
+			background-size: auto 50%; }
+
+
+}
+
+
+/* iPad Landscape */
+
+/* iPad Landscape */
+
+/* iPad Landscape */
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+
+}
+
+  /* iPhone */
+
+ /* iPhone */
+
+ /* iPhone */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+
+body {top: -10vh;}
+.star3, .star4, .cloud_3, .cloud_4, 	.container, .window_form, .container, .btn1, {
+			 display: none;}
+.cloud_right::before, .cloud_left::before {
+ 				background-size: auto 40% ; }
+.window_1, .window_2 {
+				display: block;}
+.cloud_left::before {
+				top: 10vh;}
+.star2::before {
+				 background-size: auto 65%;}
+.backgr_stars::before {
+		background-size: auto 50% ;}
+.target::before {
+				 background-size: auto 50%;}
+.backgr2::before {
+				 background-size: auto 120%;}
+}
+
+
+  /* iPhone Portrait */
+	  /* iPhone Portrait */
+		  /* iPhone Portrait */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
+
+	body {top: -10vh;}
+	.star3, .star4, .cloud_3, .cloud_4, 	.container, .window_form, .container, .btn1, {
+				 display: none;}
+	.cloud_right::before, .cloud_left::before {
+	 				background-size: auto 40% ; }
+	.window_1, .window_2 {
+					display: block;}
+	.cloud_left::before {
+					top: 10vh;}
+	.star2::before {
+					 background-size: auto 65%;}
+	.backgr_stars::before {
+			background-size: auto 50% ;}
+	.target::before {
+					 background-size: auto 50%;}
+	.backgr2::before {
+					 background-size: auto 120%;}
+	}
+}
+
+/* iPhone Landscape */
+	/* iPhone Landscape */
+		/* iPhone Landscape */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) {
+  /* iPhone Landscape */
+}
