@@ -345,6 +345,186 @@ top: 2001px;
 
 transform: rotate(79.51deg);
 }
+.krug1 {
+  position: absolute;
+width: 72px;
+height: 68px;
+left: 351px;
+top: 3011px;
+}
+.krug2 {
+  position: absolute;
+width: 48px;
+height: 47px;
+left: 449px;
+top: 3055px;
+}
+.krug3 {
+  position: absolute;
+width: 62px;
+height: 60px;
+left: 521px;
+top: 3008px;
+}
+.krug4 {
+  position: absolute;
+width: 64.76px;
+height: 65.34px;
+left: 953px;
+top: 2001px;
+}
+.krug5 {
+  position: absolute;
+width: 62px;
+height: 61px;
+left: 780px;
+top: 3496px;
+
+}
+.krug6 {
+  position: absolute;
+width: 62px;
+height: 61px;
+left: 728px;
+top: 3571px;
+}
+.krug7 {
+  position: absolute;
+width: 45px;
+height: 44px;
+left: 521px;
+top: 3580px;
+}
+.krug8 {
+  position: absolute;
+width: 28px;
+height: 27px;
+left: 365px;
+top: 3533px;
+
+}
+.krug9 {
+  position: absolute;
+width: 72px;
+height: 68px;
+left: 370px;
+top: 3473px;
+}
+.krug10 {
+  position: absolute;
+width: 62px;
+height: 61px;
+left: 535px;
+top: 3502px;
+
+}
+.krug11 {
+  position: absolute;
+width: 44px;
+height: 42px;
+left: 381px;
+top: 3584px;
+}
+.krug12 {
+  position: absolute;
+width: 29px;
+height: 28px;
+left: 718px;
+top: 3038px;
+}
+.krug13 {
+  position: absolute;
+width: 29px;
+height: 28px;
+left: 768px;
+top: 3003px;
+}
+.krug14{
+  position: absolute;
+width: 42px;
+height: 42px;
+left: 811px;
+top: 3024px;
+}
+.krug15 {
+  position: absolute;
+width: 28px;
+height: 28px;
+left: 837px;
+top: 3005px;
+}
+.krug16 {
+  position: absolute;
+width: 42px;
+height: 42px;
+left: 993px;
+top: 3017px;
+}
+.krug17 {
+  position: absolute;
+width: 32px;
+height: 32px;
+left: 938px;
+top: 3003px;
+}
+.krug18 {
+  position: absolute;
+width: 19px;
+height: 19px;
+left: 863px;
+top: 3021px;
+
+}
+.krug19 {
+  position: absolute;
+width: 29px;
+height: 28px;
+left: 718px;
+top: 3038px;
+}
+.krug20 {
+  position: absolute;
+width: 29px;
+height: 28px;
+left: 768px;
+top: 3003px;
+}
+.krug21 {
+  position: absolute;
+width: 42px;
+height: 42px;
+left: 811px;
+top: 3024px;
+}
+.krug22 {
+  position: absolute;
+width: 28px;
+height: 28px;
+left: 837px;
+top: 3005px;
+}
+.krug23 {
+  position: absolute;
+width: 42px;
+height: 42px;
+left: 993px;
+top: 3017px;
+}
+.krug24 {
+  position: absolute;
+width: 32px;
+height: 32px;
+left: 938px;
+top: 3003px;
+}
+.krug25 {
+  position: absolute;
+width: 19px;
+height: 19px;
+left: 863px;
+top: 3021px;
+
+}
 @keyframes spin {
   0% {transform: rotate(0deg);}
   100% {transform: rotate(360deg);}
@@ -353,3 +533,8 @@ transform: rotate(79.51deg);
   0% {transform: rotate(0deg);}
   100% {transform: rotate(180deg);}
 }
+@keyframes shake {
+  0%, 50% {top: 50px;}
+  25% {top: 40px;}
+  75% {top: 30px;}
+  100% {top:50px;}
