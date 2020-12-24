@@ -251,15 +251,14 @@ top: 92.67%;
   }
 .text11 {
 position: absolute;
-width: 355.38px;
-height: 72.73px;
-left: 650px;
-top: 220px;
+width: 21.15%;
+height: 4.32%;
+left: 78.69%;
+top: 110.09%;
 font-family: RF Krabuler;
 font-style: normal;
 font-weight: normal;
 font-size: 35px;
-line-height: 42px;
 display: none;
 }
 .img11:hover .text11{
@@ -270,22 +269,21 @@ filter:  sepia(20%) saturate(1000%) hue-rotate(100deg);
 }
   .img12 {
 position: absolute;
-width: 1279.79px;
-height: 436.35px;
-left: 113.21px;
-top: 1158px;
+width: 76.17%;
+height:25.97%;
+left: 6.73%;
+top: 148.92%;
   }
   .text12 {
-    position: absolute;
-width: 617px;
-height: 48px;
-left: 980px;
-top: 250px;
+position: absolute;
+width: 36.72%;
+height: 2.85%;
+left: 76.33%;
+top: 124.88%;
 font-family: RF Krabuler;
 font-style: normal;
 font-weight: normal;
 font-size: 35px;
-line-height: 42px;
 color: #000000;
 display: none;
   }
