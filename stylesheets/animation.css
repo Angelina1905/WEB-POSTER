@@ -534,7 +534,20 @@ top: 3021px;
   100% {transform: rotate(180deg);}
 }
 @keyframes shake {
-  0%, 50% {top: 50px;}
-  25% {top: 40px;}
-  75% {top: 30px;}
-  100% {top:50px;}
+  0%, 50% {top: 3010px;}
+  25% {top: 2980px;}
+  75% {top: 2960px;}
+  100% {top:3010px;}
+}
+  @keyframes shaken {
+    0%, 50% {top: 3500px;}
+    25% {top: 3470px;}
+    75% {top: 3450px;}
+    100% {top:3500px;}
+  }
+  @keyframes shakenn {
+    0%, 50% {top: 3600px;}
+    25% {top: 3470px;}
+    75% {top: 3450px;}
+    100% {top:3600px;}
+  }
