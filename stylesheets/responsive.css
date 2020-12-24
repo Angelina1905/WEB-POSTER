@@ -1544,17 +1544,8 @@ display: none;
       /*iphone*/
 
 			.txtmain {
-		 	 position: absolute;
-		 width: 40%;
-		 height: 3.34%;
-		 left: 30.29%;
-		 top:8%;
-		 font-family: RF Krabuler;
-		 font-style: normal;
-		 font-weight: normal;
-		 font-size: 106px;
-		 color: #000000;
 		 transform:scale(0.6);
+		 margin: -7% 65%;
 		  }
 		 .logo {
 		 display: none;
@@ -1562,7 +1553,7 @@ display: none;
 		  .img1 {
 		 	 position: absolute;
 		 	 padding: 25% -20%;
-		 	 margin: 50% 5%;
+		 	 margin: -370% -90%;
 		 left: -10px;
 		 transform:scale(0.6);
 		 }
@@ -1570,7 +1561,7 @@ display: none;
 		 .img2 {
 		  position: absolute;
 		  padding: 25% -20%;
-		  margin: -71.4% 5%;
+		  margin: -280% 80%;
 		 left: -264px;
 		 transform:scale(0.6);
 		 }
