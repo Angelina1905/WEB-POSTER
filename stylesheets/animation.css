@@ -523,7 +523,104 @@ width: 19px;
 height: 19px;
 left: 863px;
 top: 3021px;
+}
+.doll1 {
+  position: absolute;
+width: 67.66px;
+height: 105.35px;
+left: 475px;
+top: 4545px;
 
+}
+.doll2 {
+  position: absolute;
+width: 99.35px;
+height: 92.69px;
+left: 634px;
+top: 4439px;
+
+}
+.doll3 {
+  position: absolute;
+width: 162.2px;
+height: 177.23px;
+left: 704px;
+top: 4441px;
+}
+.doll4 {
+  position: absolute;
+width: 67.66px;
+height: 105.35px;
+left: 475px;
+top: 4545px;
+
+}
+.doll5 {
+  position: absolute;
+width: 99.35px;
+height: 92.69px;
+left: 634px;
+top: 4439px;
+
+}
+.doll6 {
+  position: absolute;
+width: 162.2px;
+height: 177.23px;
+left: 704px;
+top: 4441px;
+}
+.doll7 {
+  position: absolute;
+width: 99.35px;
+height: 92.69px;
+left: 634px;
+top: 4439px;
+}
+.doll8 {
+  position: absolute;
+width: 67.9px;
+height: 68.52px;
+left: 1381px;
+top: 4448px;
+
+}
+.doll9 {
+  position: absolute;
+width: 99.35px;
+height: 92.69px;
+left: 634px;
+top: 4439px;
+}
+.doll10 {
+  position: absolute;
+width: 67.9px;
+height: 68.52px;
+left: 1381px;
+top: 4448px;
+
+}
+.doll11 {
+  position: absolute;
+width: 67.66px;
+height: 105.35px;
+left: 475px;
+top: 4545px;
+
+}
+.doll12 {
+  position: absolute;
+width: 99.35px;
+height: 92.69px;
+left: 634px;
+top: 4439px;
+}
+.doll13 {
+  position: absolute;
+width: 162.2px;
+height: 177.23px;
+left: 704px;
+top: 4441px;
 }
 @keyframes spin {
   0% {transform: rotate(0deg);}
