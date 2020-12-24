@@ -10,9 +10,9 @@
 	font-family: RF Krabuler;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 76px;
+	font-size: 106px;
 	color: #000000;
-	transform:scale(0.58);
+	transform:scale(0.9);
 	  }
 	 .logo {
 	 display: none;
@@ -69,13 +69,6 @@ transform:scale(0.9);
 	color: #FFFFFF;
 	display: none;
 	  }
-	  .img7:hover .text7{
-	    display: block;
-	  }
-	  .img7:hover {
-	  filter:  sepia(10%) saturate(100%) hue-rotate(290deg);
-	  }
-
 	  .img6 {
 			margin: -54.5% 20%;
 			padding: 10% 0%;
@@ -157,9 +150,8 @@ transform:scale(0.9);
 	  }
 
 	  .img9 {
-			margin: -20% -3%;
-			padding: 25% 10%;
-			transform: scale(0.8);
+			margin: 5% 19.5%;
+			transform: scale(1.3);
 	  }
 	  .img10 {
 	margin: -20% -3%;
