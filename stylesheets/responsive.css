@@ -1,4 +1,4 @@
-@media (max-width: 1024px) {
+@media  (max-width: 1024px) {
   /* ipad landscape */
 
 	  .txtmain {
@@ -1540,8 +1540,9 @@ display: none;
 		  } */ */
 
       }
-      @media (max-width: 320px) {
+      @media (max-width: 375px) {
       /*iphone*/
+
 			.txtmain {
 		 	 position: absolute;
 		 width: 40%;
@@ -1553,7 +1554,7 @@ display: none;
 		 font-weight: normal;
 		 font-size: 106px;
 		 color: #000000;
-		 transform:scale(0.1);
+		 transform:scale(0.6);
 		  }
 		 .logo {
 		 display: none;
@@ -1561,9 +1562,9 @@ display: none;
 		  .img1 {
 		 	 position: absolute;
 		 	 padding: 25% -20%;
-		 	 margin: -58.4% 5%;
+		 	 margin: 50% 5%;
 		 left: -10px;
-		 transform:scale(0.3);
+		 transform:scale(0.6);
 		 }
 
 		 .img2 {
@@ -1571,12 +1572,12 @@ display: none;
 		  padding: 25% -20%;
 		  margin: -71.4% 5%;
 		 left: -264px;
-		 transform:scale(0.3);
+		 transform:scale(0.6);
 		 }
 		  .img3 {
 		 	 margin: -81% -14%;
 		 	 padding: 10% 0%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 		  .text3 {
 		 position: absolute;
@@ -1590,9 +1591,9 @@ display: none;
 		 display: none;
 		  }
 		  .img7 {
-		 	 margin: -46% 8%;
+		 	 margin: -320% 12%;
 		 	 padding: 10% 0%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 		  .text7 {
 		 	 position: absolute;
@@ -1608,9 +1609,9 @@ display: none;
 		 display: none;
 		  }
 		  .img6 {
-		 	 margin: -54.5% 20%;
+		 	 margin: -377% 71%;
 		 	 padding: 10% 0%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 		  .text6 {
 		 	 position: absolute;
@@ -1628,7 +1629,7 @@ display: none;
 		  .img4 {
 		 	 margin: -63% 5%;
 		 	 padding: 10% 0%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 		  .text4 {
 		 	 position: absolute;
@@ -1646,7 +1647,7 @@ display: none;
 		  .img5 {
 		 	 margin: -71% 8%;
 		 	 padding: 10% 0%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 		  .text5 {
 		 	 position: absolute;
@@ -1662,9 +1663,9 @@ display: none;
 		 display: none;
 		  }
 		  .img8 {
-		 	 margin: -38% 8%;
+		 	 margin: -240% 109%;
 		 	padding: 10% 0%;
-		 	transform: scale(0.3);
+		 	transform: scale(0.6);
 		  }
 		  .text8 {
 		 	 position: absolute;
@@ -1683,12 +1684,12 @@ display: none;
 
 		  .img9 {
 		 	 margin: 5% 19.5%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 		  .img10 {
-		 margin: -20% -3%;
-		 padding: 25% 0%;
-		 transform: scale(0.3);
+		 margin: -55% 39%;
+		 padding: 55% 15%;
+		 transform: scale(0.6);
 		  }
 
 		 .text10 {
@@ -1705,9 +1706,9 @@ display: none;
 		 display: none;
 		 }
 		  .img11 {
-		 	 margin: -20% -3%;
+		 	 margin: -85% 52%;
 		 	 padding: 13% 0%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 		 .text11 {
 		 position: absolute;
@@ -1723,9 +1724,9 @@ display: none;
 		 }
 
 		  .img12 {
-		 	 margin: -25% -14%;
+		 	 margin: -135% 3%;
 		 	 padding: 10% 0%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 		  .text12 {
 		 position: absolute;
@@ -1742,9 +1743,9 @@ display: none;
 		  }
 
 		  .img13 {
-		 	 margin: -33% -13%;
+		 	 margin: -190% 3%;
 		 	 padding: 10% 0%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 
 		  .text13 {
@@ -1761,9 +1762,9 @@ display: none;
 		 display: none;
 		  }
 		  .img14 {
-		 	 margin: -38% 8%;
+		 	 margin: -225% 105%;
 		 	 padding: 10% 0%;
-		 	 transform: scale(0.3);
+		 	 transform: scale(0.6);
 		  }
 		  .text14 {
 		 	 position: absolute;
