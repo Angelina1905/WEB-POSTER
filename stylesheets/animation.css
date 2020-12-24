@@ -759,6 +759,80 @@ left: 603.27px;
 top: 813px;
 
 }
+.more2 {
+  position: absolute;
+  width: 88px;
+  height: 44.67px;
+  left: 711.32px;
+  top: 792px;
+}
+.more3 {
+  position: absolute;
+width: 132px;
+height: 67px;
+left: 586px;
+top: 921.54px;
+}
+.more4 {
+  position: absolute;
+width: 100.48px;
+height: 51px;
+left: 709px;
+top: 955px;
+
+}
+.more5 {
+  position: absolute;
+width: 87px;
+height: 44.16px;
+left: 830px;
+top: 1033.54px;
+}
+.more6 {
+  position: absolute;
+width: 96px;
+height: 48.73px;
+left: 928.86px;
+top: 955px;
+}
+.more7 {
+  position: absolute;
+width: 51.53px;
+height: 22.03px;
+left: 1020px;
+top: 980.14px;
+}
+.more8 {
+  position: absolute;
+width: 96px;
+height: 48.73px;
+left: 1012px;
+top: 1012.84px;
+
+}
+.more9 {
+
+position: absolute;
+width: 96px;
+height: 48.73px;
+left: 1120.36px;
+top: 947px;
+}
+.more10 {
+  position: absolute;
+width: 76.58px;
+height: 53.36px;
+left: 1234.61px;
+top: 1009px;
+}
+.more11 {
+
+position: absolute;
+width: 95.8px;
+height: 66.76px;
+left: 1256px;
+top: 1103.74px;
+}
 @keyframes spin {
   0% {transform: rotate(0deg);}
   100% {transform: rotate(360deg);}
