@@ -74,8 +74,72 @@ left: 876px;
 top: 433px;
 }
 .icecream10 {
-  
+
+position: absolute;
+width: 79.92px;
+height: 117.66px;
+left: 794px;
+top: 355.84px;
+
+transform: rotate(-62.42deg);
 }
+.icecream11 {
+  position: absolute;
+width: 65.81px;
+height: 96.89px;
+left: 732px;
+top: 412.95px;
+
+transform: rotate(-44.79deg);
+}
+.icecream12 {
+position: absolute;
+width: 40.5px;
+height: 56.25px;
+left: 656.34px;
+top: 356px;
+
+transform: rotate(13.72deg);
+}
+.icecream13 {
+
+position: absolute;
+width: 81px;
+height: 119.26px;
+left: 675.03px;
+top: 412.29px;
+
+transform: rotate(13.72deg);
+}
+.icecream14 {
+
+position: absolute;
+width: 40.5px;
+height: 56.25px;
+left: 599.34px;
+top: 436px;
+
+transform: rotate(13.72deg);
+}
+.icecream15 {
+
+position: absolute;
+width: 65.81px;
+height: 96.89px;
+left: 680px;
+top: 568.12px;
+
+transform: rotate(-58.52deg);
+}
+.icecream16 {
+
+position: absolute;
+width: 40.5px;
+height: 56.25px;
+left: 593px;
+top: 530.75px;
+}
+
 @keyframes spin {
   0% {transform: rotate(0deg);}
   100% {transform: rotate(360deg);}
