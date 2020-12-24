@@ -299,24 +299,23 @@ display: none;
 
   .img13 {
 position: absolute;
-width: 1045.51px;
-height: 536.87px;
-left: 90px;
-top: 1593px;
+width: 62.23%;
+height: 31.95%;
+left: 5.35%;
+top: 203.82%;
 
   }
 
   .text13 {
     position: absolute;
-width: 674.03px;
-height: 72.73px;
-left: 340px;
-top: 300px;
+width: 40.12%;
+height: 4.32%;
+left: 32.23%;
+top: 119.85%;
 font-family: RF Krabuler;
 font-style: normal;
 font-weight: normal;
 font-size: 30px;
-line-height: 36px;
 color: #FFFFFF;
 display: none;
   }
@@ -328,10 +327,10 @@ filter:  sepia(10%) saturate(1000%) hue-rotate(240deg);
 }
   .img14 {
 position: absolute;
-width: 596px;
-height: 173px;
-left: 1132px;
-top: 1981px;
+width: 35.47%;
+height: 10.29%;
+left: 67.38%;
+top: 253.2%;
   }
   .text14 {
     position: absolute;
