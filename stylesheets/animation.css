@@ -666,8 +666,98 @@ top: 3914px;
 position: absolute;
 width: 68.51px;
 height: 44.04px;
-left: 454px;
-top: 4011.56px;
+left: 500px;
+top: 4300px;
+}
+.sport7 {
+  position: absolute;
+width: 51.84px;
+height: 33.33px;
+left: 615.61px;
+top: 3943.87px;
+}
+.sport8 {
+  position: absolute;
+width: 102px;
+height: 65.57px;
+left: 598px;
+top: 3962.37px;
+
+}
+.sport9 {
+  position: absolute;
+width: 52.32px;
+height: 33.63px;
+left: 350px;
+top: 4010.5px;
+
+}
+.sport10{
+  position: absolute;
+width: 87.72px;
+height: 56.39px;
+left: 34px;
+top: 4354.5px;
+}
+.sport11 {
+  position: absolute;
+width: 39.9px;
+height: 25.65px;
+left: 141.93px;
+top: 4311px;
+
+}
+.sport12{
+  position: absolute;
+width: 77.9px;
+height: 50.08px;
+left: 129.9px;
+top: 4368px;
+}
+.sport13{
+  position: absolute;
+width: 102px;
+height: 65.57px;
+left: 53px;
+top: 4513.37px;
+}
+.sport14 {
+  position: absolute;
+width: 36.35px;
+height: 23.37px;
+left: 52px;
+top: 4442.58px;
+}
+.sport15 {
+
+position: absolute;
+width: 102px;
+height: 65.57px;
+left: 196px;
+top: 4448.94px;
+}
+.sport16 {
+  position: absolute;
+width: 64.87px;
+height: 41.7px;
+left: 220px;
+top: 4522px;
+
+}
+.sport17 {
+  position: absolute;
+width: 59.27px;
+height: 38.1px;
+left: 291px;
+top: 4540.82px;
+}
+.more1 {
+  position: absolute;
+width: 78.66px;
+height: 31.69px;
+left: 603.27px;
+top: 813px;
+
 }
 @keyframes spin {
   0% {transform: rotate(0deg);}
@@ -728,4 +818,8 @@ top: 4011.56px;
   @keyframes povorot {
     0% {transform: rotate(5deg);}
     100% {transform: rotate(250deg);}
+  }
+  @keyframes around {
+    0% {transform: rotate(-18deg);}
+    100% {transform: rotate(115deg);}
   }
