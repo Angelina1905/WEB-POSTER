@@ -139,8 +139,154 @@ height: 56.25px;
 left: 593px;
 top: 530.75px;
 }
+.eyes1 {
+  position: absolute;
+width: 102.33px;
+height: 68.14px;
+left: 113px;
+top: 1673px;
 
+}
+.eyes2 {
+  position: absolute;
+width: 84.12px;
+height: 42.55px;
+left: 106px;
+top: 1801.04px;
+
+transform: rotate(-38.22deg);
+}
+.eyes3 {
+  position: absolute;
+width: 133.01px;
+height: 108.39px;
+left: 111px;
+top: 1830px;
+
+}
+.eyes4 {
+  position: absolute;
+width: 90px;
+height: 45.53px;
+left: 192px;
+top: 1804px;
+}
+.eyes5 {
+
+position: absolute;
+width: 87px;
+height: 44.01px;
+left: 237px;
+top: 1887.02px;
+
+transform: rotate(-33.5deg);
+}
+.eyes6 {
+
+position: absolute;
+width: 47.26px;
+height: 23.91px;
+left: 405.76px;
+top: 1794px;
+
+transform: rotate(32.26deg);
+}
+.eyes7 {
+
+position: absolute;
+width: 89px;
+height: 44.02px;
+left: 400px;
+top: 1846px;
+
+}
+.eyes8 {
+
+position: absolute;
+width: 60.17px;
+height: 30.44px;
+left: 458px;
+top: 1830.91px;
+
+transform: rotate(-51.22deg);
+}
+.eyes9 {
+  position: absolute;
+width: 87.68px;
+height: 44.35px;
+left: 519.04px;
+top: 1822px;
+
+transform: rotate(25.42deg);
+}
+.eyes10{
+  position: absolute;
+width: 55px;
+height: 27.82px;
+left: 541px;
+top: 1799px;
+
+}
+.eyes11{
+  position: absolute;
+width: 65px;
+height: 52.97px;
+left: 596px;
+top: 1839px;
+
+}
+.eyes12 {
+  position: absolute;
+width: 84.12px;
+height: 42.55px;
+left: 627.42px;
+top: 1781.28px;
+
+transform: rotate(30deg);
+}
+.eyes13 {
+  position: absolute;
+width: 65px;
+height: 52.97px;
+left: 666px;
+top: 1885.84px;
+
+transform: rotate(-69.4deg);
+}
+.eyes14 {
+  position: absolute;
+width: 99.28px;
+height: 76.37px;
+left: 794px;
+top: 1785px;
+}
+.eyes15 {
+  position: absolute;
+width: 64.76px;
+height: 65.34px;
+left: 794.2px;
+top: 1851.38px;
+}
+.eyes16{
+  position: absolute;
+width: 98px;
+height: 106.34px;
+left: 843px;
+top: 1835px;
+}
+.eyes17 {
+  position: absolute;
+width: 77.38px;
+height: 68.81px;
+left: 895px;
+top: 1782px;
+
+}
 @keyframes spin {
   0% {transform: rotate(0deg);}
   100% {transform: rotate(360deg);}
+}
+@keyframes spinn {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(180deg);}
 }
