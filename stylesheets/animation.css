@@ -280,7 +280,70 @@ width: 77.38px;
 height: 68.81px;
 left: 895px;
 top: 1782px;
+}
+.eyes18 {
+  position: absolute;
+width: 64.76px;
+height: 65.34px;
+left: 931px;
+top: 1847px;
 
+}
+.eyes19 {
+  position: absolute;
+width: 87.02px;
+height: 78.69px;
+left: 974.56px;
+top: 1884.64px;
+
+transform: rotate(68.97deg);
+}
+.eyes20{
+
+position: absolute;
+width: 64.76px;
+height: 65.34px;
+left: 953.12px;
+top: 1960.2px;
+
+transform: rotate(126.87deg);
+}
+.eyes21 {
+
+position: absolute;
+width: 64.76px;
+height: 65.34px;
+left: 912px;
+top: 1965px;
+
+}
+.eyes22 {
+
+position: absolute;
+width: 84px;
+height: 85.34px;
+left: 956.15px;
+top: 2041px;
+
+transform: rotate(57.72deg);
+}
+.eyes23 {
+  position: absolute;
+width: 87.76px;
+height: 88px;
+left: 1029.49px;
+top: 2019px;
+
+transform: rotate(52.15deg);
+}
+.eyes24 {
+  position: absolute;
+width: 64.76px;
+height: 65.34px;
+left: 1092.25px;
+top: 2001px;
+
+transform: rotate(79.51deg);
 }
 @keyframes spin {
   0% {transform: rotate(0deg);}
