@@ -43,6 +43,7 @@ width: 80.4%;
 width: 130.11%;
 height: 232.49%;
 top: 63.22%;
+display: block;
 }
   .img3 {
     position: absolute;
@@ -50,6 +51,7 @@ width: 85.77%;
 height: 19.13%;
 left: 17.06%;
 top: 635.47%;
+display: block;
   }
   .text3 {
 position: absolute;
@@ -71,6 +73,7 @@ width: 85.4%;
 height: 42.15%;
 left: 17.97%;
 top: 377.44%;
+display: block;
   }
   .text7 {
     position: absolute;
@@ -98,6 +101,7 @@ width: 22.71%;
 height: 38.34%;
 left: 45.4%;
 top: 441.53%;
+display: block;
   }
   .text6 {
     position: absolute;
@@ -124,6 +128,7 @@ width: 45.6%;
 height: 46.85%;
 left: 1.07%;
 top: 496.5%;
+display: block;
   }
   .text4 {
     position: absolute;
