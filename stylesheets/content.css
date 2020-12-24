@@ -236,16 +236,9 @@ display: none;
 .img10:hover .text10 {
   display: block;
 }
-/* .img10:hover {
-background-color: #77FF0D;
-  mask: url(images/Group 147.svg) no-repeat center / contain;
-  -webkit-mask: url(images/Group 147.svg) no-repeat center / contain;
+.img10:hover .icecream1 {
+  display: block;
 }
-} */
-/* .img10:hover {
-filter:  sepia(20%) saturate(170%) hue-rotate(285deg);
-} */
-
 
   .img11 {
     position: absolute;
