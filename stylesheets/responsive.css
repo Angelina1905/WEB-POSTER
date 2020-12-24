@@ -1771,8 +1771,8 @@ display: none;
 		 color: #000000;
 		 display: none;
 		  }
-			@media  (max-width: 768px) {
 
+	@media  (max-width: 768px) {
 					.txtmain {
 						position: absolute;
 				width: 40%;
